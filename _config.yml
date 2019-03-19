@@ -3,11 +3,12 @@ title: DropOffice
 email: admin@dropofficespace.com
 description: > # this means to ignore newlines until "baseurl:"
   Office space and desk space desigined around nomadic remote office workers.
-baseurl: "https://dropofficespace.com/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://dropofficespace.com" # the base hostname & protocol for your site
 twitter_username: dropoffice
 github_username:  dropoffice
-phone: +1 (503) 758-0422
+phone: +1 (503) 758-0
+address: ""
 
 # Build settings
 markdown: kramdown
